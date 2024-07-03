@@ -1,3 +1,8 @@
+# DevLog
+## Update 4july,2024
+- Website is live!
+- https://learn-genai.subhranshu.com/
+
 # Generative AI Roadmap
 - Using Milanote for now, will build a proper website soon!
 
