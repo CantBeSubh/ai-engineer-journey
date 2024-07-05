@@ -13,6 +13,9 @@ const config = {
     defaultMenuCollapseLevel: 1,
     toggleButton: true
   },
+  footer: {
+    text: "MIT Licensed | Copyright © 2023 Subhranshu Pati"
+  }
 }
 
 export default config
